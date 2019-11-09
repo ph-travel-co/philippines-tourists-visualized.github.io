@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/philippines-tourists-visualized/static/css/main.550af0d0.chunk.css",
+    "main.js": "/philippines-tourists-visualized/static/js/main.37dafcc9.chunk.js",
+    "main.js.map": "/philippines-tourists-visualized/static/js/main.37dafcc9.chunk.js.map",
+    "runtime-main.js": "/philippines-tourists-visualized/static/js/runtime-main.f7ece55c.js",
+    "runtime-main.js.map": "/philippines-tourists-visualized/static/js/runtime-main.f7ece55c.js.map",
+    "static/js/2.8b7cc552.chunk.js": "/philippines-tourists-visualized/static/js/2.8b7cc552.chunk.js",
+    "static/js/2.8b7cc552.chunk.js.map": "/philippines-tourists-visualized/static/js/2.8b7cc552.chunk.js.map",
+    "index.html": "/philippines-tourists-visualized/index.html",
+    "precache-manifest.9a4cc2e1c055292f1c8338e81c7982a7.js": "/philippines-tourists-visualized/precache-manifest.9a4cc2e1c055292f1c8338e81c7982a7.js",
+    "service-worker.js": "/philippines-tourists-visualized/service-worker.js",
+    "static/css/main.550af0d0.chunk.css.map": "/philippines-tourists-visualized/static/css/main.550af0d0.chunk.css.map",
+    "static/media/cover-03.png": "/philippines-tourists-visualized/static/media/cover-03.a8d8498e.png",
+    "static/media/logo.svg": "/philippines-tourists-visualized/static/media/logo.25bf045c.svg",
+    "static/media/tourist_arrival_ph_areachart_world_yearly.c85a39f7.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_areachart_world_yearly.c85a39f7.svg",
+    "static/media/tourist_arrival_ph_bumpchart_worldwide_wide.png": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_bumpchart_worldwide_wide.07fdf89b.png",
+    "static/media/tourist_arrival_ph_bumpchart_worldwide_wide.b2abfb7c.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_bumpchart_worldwide_wide.b2abfb7c.svg",
+    "static/media/tourist_arrival_ph_map_regional_wide_domfor.png": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_regional_wide_domfor.2ca5ddba.png",
+    "static/media/tourist_arrival_ph_map_regional_wide_domfor.8a765bed.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_regional_wide_domfor.8a765bed.svg",
+    "static/media/tourist_arrival_ph_map_regional_wide_total.png": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_regional_wide_total.60e883cc.png",
+    "static/media/tourist_arrival_ph_map_regional_wide_total.ef999254.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_regional_wide_total.ef999254.svg",
+    "static/media/tourist_arrival_ph_map_worldwide_wide.01ad30ba.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_worldwide_wide.01ad30ba.svg",
+    "static/media/tourist_arrival_ph_map_worldwide_wide.png": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_map_worldwide_wide.30a53db7.png",
+    "static/media/tourist_arrival_ph_trend_regional_wide.1e400c45.svg": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_trend_regional_wide.1e400c45.svg",
+    "static/media/tourist_arrival_ph_trend_regional_wide.png": "/philippines-tourists-visualized/static/media/tourist_arrival_ph_trend_regional_wide.addb2cfe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ece55c.js",
+    "static/js/2.8b7cc552.chunk.js",
+    "static/css/main.550af0d0.chunk.css",
+    "static/js/main.37dafcc9.chunk.js"
+  ]
+}

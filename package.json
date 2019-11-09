@@ -1,0 +1,36 @@
+{
+	"name": "philippines-tourists-visualized",
+	"version": "0.0.1",
+	"private": false,
+	"homepage": "https://ph-travel-co.github.io/philippines-tourists-visualized",
+	"dependencies": {
+		"@material-ui/core": "^4.6.0",
+		"gh-pages": "^2.1.1",
+		"react": "^16.10.2",
+		"react-dom": "^16.10.2",
+		"react-scripts": "3.2.0"
+	},
+	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -b master -d build",
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}
